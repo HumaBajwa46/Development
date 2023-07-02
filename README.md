@@ -1,2 +1,2 @@
 # Development
-This includes some frontend pages.
+Here are some frontend pages including css files.
